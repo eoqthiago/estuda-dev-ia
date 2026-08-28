@@ -26,6 +26,10 @@ Se você já é **pleno ou sênior**, esse método provavelmente não vai fazer 
 
 Depois de configurar em qualquer uma das plataformas, veja **[COMO-USAR.md](./COMO-USAR.md)** — passo a passo prático com comandos prontos pra JavaScript/TypeScript, Node/NestJS, Python, Java/C# e outras linguagens.
 
+## Material complementar
+
+- **[Estruturas de dados e algoritmos](./estrutura-de-dados-e-algoritmos/README.md)** — fundamentos de representação de dados, análise de complexidade, estruturas e algoritmos com exemplos em JavaScript.
+
 ## O método (completo)
 
 ### Princípio fundamental
